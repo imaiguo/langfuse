@@ -19,3 +19,7 @@
 >
 ```
 
+
+## 访问Langfuse web界面
+
+And you are ready to go! Open http://localhost:3000 in your browser to access the Langfuse UI.
